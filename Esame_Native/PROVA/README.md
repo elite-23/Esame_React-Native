@@ -38,13 +38,10 @@ Esecuzione:
    npm run web
 
 
-Questo avvierà il server, ed aprirà la pagina automaticamente
+Questo avvierà il server, ed aprirà la pagina automaticamente.
 
+Questo è un progetto React Native che crea un'app per navigare tra diverse tabelle. L'app carica un set di dati da un file JSON e permette all'utente di selezionare una tabella dalla schermata principale per visualizzare i suoi dati in un formato tabellare.
 
-Il progetto consiste di una pagina web dalla quale è possibile inviare query ad un database e visualizzare la risposta in una tabella.
-In caso la conessione al database sia assente il backend utilizzerà il file mock_data.json così da simulare la chiamata al server,
-ma  verà nascosta la possibilità di aggiungere clausole WHERE la quale viene automaticamente riaggiunta nel momento in cui il backend riesce a ricollegarsi 
-al database.
 
 Licenza
 
